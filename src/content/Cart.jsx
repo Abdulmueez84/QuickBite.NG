@@ -43,7 +43,7 @@ const Cart = ({ cartAllProducts, setCartAllProducts }) => {
                         </div>
                       </div>
                       <div>
-                        <p onClick={() => handleDeleteItem(product.id)} className='text-red-700 px-2 cursor-pointer max-md:absolut top-0 right-0 max-md:py-2'> <Trash2 /></p>
+                        <p onClick={() => handleDeleteItem(product.id)} className='text-red-700 px-2 cursor-pointer max-md:absolute top-0 right-0 max-md:py-2'> <Trash2 /></p>
                       </div>
                     </div>
 
