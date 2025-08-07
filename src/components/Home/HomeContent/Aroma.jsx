@@ -21,7 +21,7 @@ export default function Aroma() {
                             <span> Here.</span>
                         </div>
                     </div>
-
+ 
                     <div>
                         <a href="#" className='py-4 px-5 rounded-md hover:text-neutral-800 hover:bg-neutral-100 transition-all duration-500 leading-tight bg-red-700 uppercase font-extrabold text-md'>Shop Now</a>
                     </div>
@@ -33,7 +33,7 @@ export default function Aroma() {
 
                     <CountUp
                         start={0}
-                        end={2}
+                        end={3}
                         duration={4}
                         separator=" "
                         decimals={0}
@@ -50,7 +50,7 @@ export default function Aroma() {
 
                     <CountUp
                         start={0}
-                        end={6}
+                        end={7}
                         duration={4}
                         separator=" "
                         decimals={0}
@@ -66,7 +66,7 @@ export default function Aroma() {
 
                     <CountUp
                         start={0}
-                        end={2}
+                        end={3}
                         duration={4}
                         separator=" "
                         decimals={0}
@@ -82,7 +82,7 @@ export default function Aroma() {
 
                     <CountUp
                         start={0}
-                        end={99}
+                        end={100}
                         duration={4}
                         separator=" "
                         decimals={0}
