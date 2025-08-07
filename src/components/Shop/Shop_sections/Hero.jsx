@@ -13,7 +13,6 @@ function Hero() {
                     <h1 className='py-4 md:text-4xl text-2xl leading-tight'>Products</h1>
                     <p className='flex text-xl'>
                         <a className='px-2 transition-all duration-500 hover:text-amber-700' href="#">Home </a> /
-                        <a className='px-2 transition-all duration-500 hover:text-amber-700' href="#">All Collections </a> /
                         <a className='px-2' href="#">Products</a>
                     </p>
                 </div>
