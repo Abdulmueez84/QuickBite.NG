@@ -4,9 +4,6 @@ import React from 'react'
 import image_food1 from '../assets/Categories/Category-1.png'
 import image_food2 from '../assets/Categories/Category-2.png'
 import image_food3 from '../assets/Categories/Category-3.png'
-// import image_food4 from '../assets/Categories/Category-4.png'
-// import image_food5 from '../assets/Categories/Category-5.png'
-// import image_food6 from '../assets/Categories/Category-6.png'
 
 //foods
 import food_img1 from "../assets/Foods/shop1.png"
@@ -51,8 +48,8 @@ import product_img19 from "../assets/NG_FOODS/Pepper_soup.jpg"
 
 import menu1 from '../assets/Other_logo/Menu_1.png'
 import menu2 from '../assets/Other_logo/menu_2.webp'
-import menu3 from '../assets/Other_logo/Menu_3.webp'
-import menu4 from '../assets/Other_logo/Menu_4.webp'
+import menu3 from '../assets/Other_logo/menu_3.webp'
+import menu4 from '../assets/Other_logo/menu_4.webp'
 
 import testimonial1 from '../assets/testimonials/testimonia_1.png'
 import testimonial2 from '../assets/testimonials/testimonia_2.png'
@@ -87,12 +84,6 @@ export const icons = [
     { icon: <User size={20} strokeWidth={2.5} />, href: "#" },
 ]
 
-// { icon: <ChevronDown /> },
-{/* <ChevronDown  strokeWidth={1.5} absoluteStrokeWidth /> */ }
-
-
-
-// The aroma of freshly baked bread  filled the cozy
 
 export const category = [
     {
@@ -183,231 +174,6 @@ export const FFoods = [
 ]
 
 
-// export const Indian = [
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-// ]
-
-// export const International = [
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-// ]
-
-// export const Barbecue = [
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-// ]
-
-// export const Asian = [
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-// ]
-
-// export const Chinese = [
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-//     {
-//         food_img: food_variety1,
-//         textHeading: "Chicken Biryani",
-//         price: '$'`${190}`,
-//         button: "SHOP NOW"
-//     },
-// ]
-
 export const testimonial = [
     {
         image: testimonial1,
@@ -448,14 +214,7 @@ export const gallery = [
 // ///////////////////// SHOPS CATEGORIES
 
 export const productCartegories = [
-    // {
-    //     id: 1,
-    //     product_img: product_img11,
-    //     label: "Chicken Biryani",
-    //     count: 1,
-    //     price: 2200,
-    //     description:' Pellentesque id nibh tortor id aliquet magna sit amet Arcu dictum varius duis at consectetur lorem. Lobortis scelerisque fermentum dui faucibus in. Nam aliquam sem et tortor consequat',
-    // },
+   
     {
         id: 1,
         image: product_img11,
@@ -561,14 +320,7 @@ export const productCartegories = [
         price: 1200,
         description: ' Fufu  is a starch ball that you make by boiling plants like rice, cassava, or plantains. You grind the starches into a paste, form them, and then boil them to make fufu. For those who aren’t familiar, the texture is somewhere between bread dough and mashed potatoes.',
     },
-    // {
-    //     id: 15,
-    //     image: product_img15,
-    //     label: "Chana Spice",
-    //     count: 1,
-    //     price: 2900,
-    //     description: ' Pellentesque id nibh tortor id aliquet magna sit amet Arcu dictum varius duis at consectetur lorem. Lobortis scelerisque fermentum dui faucibus in. Nam aliquam sem et tortor consequat',
-    // },
+  
     {
         id: 14,
         image: product_img16,
