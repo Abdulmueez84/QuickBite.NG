@@ -376,17 +376,17 @@ export const services = [
     },
     {
         iconImg: iconImg2,
-        heading: 'Natural Ingredients',
+        heading: 'Safe Preparation',
         text: 'Pellentesque id nibh tortor id aliquet magna sit amet',
     },
     {
         iconImg: iconImg3,
-        heading: 'Natural Ingredients',
+        heading: 'Deliciously Cooked',
         text: 'Pellentesque id nibh tortor id aliquet magna sit amet',
     },
     {
         iconImg: iconImg4,
-        heading: 'Natural Ingredients',
+        heading: 'Well Garnished',
         text: 'Pellentesque id nibh tortor id aliquet magna sit amet',
     },
 ]
