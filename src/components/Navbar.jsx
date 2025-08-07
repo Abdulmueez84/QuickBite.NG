@@ -32,10 +32,7 @@ const Navbar = ({cartAllProducts}) => {
                     <div className="w-35 h-full">
                         <img src={logo} className="w-full h-full object-contain cursor-pointer" />
                     </div>
-                    {/* 
-                    <button className='sm:hidden cursor-pointer'>
-                        <EllipsisVertical />
-                    </button> */}
+                   
 
 
 
@@ -62,7 +59,7 @@ const Navbar = ({cartAllProducts}) => {
                     </div>
 
                     {showNav && (
-                        <div className='transition-all duration-500 fixed mt-80 z-10 right-0  bg-neutral-800 w-full py-5 px-3 sm:hidden'>
+                        <div className='transition-all duration-500 fixed mt-70 z-10 right-0  bg-neutral-800 w-full py-5 px-3 sm:hidden'>
                             <ul>
                                 {
                                     navItems.map((item, index) => (
