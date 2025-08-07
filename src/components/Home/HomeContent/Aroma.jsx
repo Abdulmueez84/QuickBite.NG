@@ -32,7 +32,7 @@ export default function Aroma() {
                 <div className='md:flex px-10'>
 
                     <CountUp
-                        start={0}
+                        start={2}
                         end={3}
                         duration={4}
                         separator=" "
@@ -49,7 +49,7 @@ export default function Aroma() {
                     </CountUp>
 
                     <CountUp
-                        start={0}
+                        start={5}
                         end={7}
                         duration={4}
                         separator=" "
@@ -65,7 +65,7 @@ export default function Aroma() {
                     </CountUp>
 
                     <CountUp
-                        start={0}
+                        start={2}
                         end={3}
                         duration={4}
                         separator=" "
@@ -81,7 +81,7 @@ export default function Aroma() {
                     </CountUp>
 
                     <CountUp
-                        start={0}
+                        start={100}
                         end={100}
                         duration={4}
                         separator=" "
